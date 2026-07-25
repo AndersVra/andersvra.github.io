@@ -6,13 +6,13 @@
     <description>Recent content in Home on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coherence Based Sound Speed Aberration Correction — with clinical validation in fetal ultrasound</title>
-      <link>https://andersvra.github.io/research/coherenceaberration/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <title>Coherence-Based Sound Speed Aberration Correction — With Clinical Validation in Fetal Ultrasound</title>
+      <link>https://andersvra.github.io/papers/coherenceaberration/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/coherenceaberration/</guid>
+      <guid>https://andersvra.github.io/papers/coherenceaberration/</guid>
       
       <description>&lt;p&gt;&lt;em&gt;Anders Emil Vrålstad,
 Peter Fosodeder,
@@ -23,11 +23,75 @@ Vibeke Skoura-Torvik,
 Martin Mienkina and
 Svein-Erik Måsøy&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The preprint is published on &lt;a href=&#34;http://arxiv.org/abs/2411.16551&#34;&gt;arXiv&lt;/a&gt;.
+The full peer-reviewed paper is published in IEEE Transactions on Medical Imaging, found &lt;a href=&#34;https://ieeexplore.ieee.org/document/11513579&#34;&gt;here&lt;/a&gt;.
 The abstract and supplementary GIF images are found below.&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-&lt;p&gt;The purpose of this work is to demonstrate a robust and clinically validated method for correcting sound speed aberrations in medical ultrasound. We propose a correction method that calculates focusing delays directly from the observed two-way distributed average sound speed. The method beamforms multiple coherence images and selects the sound speed that maximizes the coherence for each image pixel.
-The main contribution of this work is the direct estimation of aberration, without the ill-posed inversion of a local sound speed map, and the proposed processing of coherence images which adapts to &lt;em&gt;in vivo&lt;/em&gt; situations where low coherent regions and off-axis scattering represents a challenge.
-The method is validated &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in silico&lt;/em&gt; showing high correlation with ground truth speed of sound maps. Further, the method is clinically validated by being applied to channel data recorded from 172 obstetric Bmode images, and 12 case examples are presented and discussed in detail. The data is recorded with a GE HealthCare Voluson Expert 22 system with an eM6c matrix array probe. The images are evaluated by three expert clinicians, and the results show that the corrected images are preferred or gave equivalent quality to no correction 1540m/s for 72.5% of the 172 images. In addition, a sharpness metric from digital photography is used to quantify image quality improvement. The increase in sharpness and the change in average sound speed are shown to be linearly correlated with a Pearson Correlation Coefficient of 0.67.&lt;/p&gt;</description>
+&lt;p&gt;The purpose of this work is to demonstrate a robust and clinically validated method for correcting sound speed aberrations in medical ultrasound. We propose a correction method that calculates the focus delays directly from the observed two-way distributed average sound speed. The method beamforms multiple coherence images and selects the sound speed that maximizes the coherence for each image pixel.
+The main contribution of this work is the direct estimation of aberration, without the ill-conditioned inversion of a local sound speed map, and the proposed processing of coherence images, which adapts to in vivo situations where low coherent regions and off-axis scattering represent a challenge.
+The method is validated in vitro and in silico showing a high correlation with the ground truth speed of sound maps. Further, the method is clinically validated by being applied to channel data recorded from 172 fetal Bmode images, and 12 case examples are presented and discussed in detail. The data is recorded with a GE HealthCare Voluson Expert 22 system with an eM6c matrix array probe. The images are evaluated by three expert clinicians, and the results show that the corrected images are preferred or gave a quality equivalent to that without correction (1540 m/s) for 72.5% of the 172 images. In addition, a sharpness metric from digital photography is used to quantify image quality improvement. The increase in sharpness and the change in average sound speed are shown to be linearly correlated with a Pearson Correlation Coefficient of 0.67.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research paper &#34;Coherence-Based Sound Speed Aberration Correction&#34; published in IEEE TMI</title>
+      <link>https://andersvra.github.io/posts/thirdpaperpublished/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/thirdpaperpublished/</guid>
+      
+      <description>&lt;p&gt;My third paper for my PhD called &amp;ldquo;Coherence-Based Sound Speed Aberration Correction — With Clinical Validation in Fetal Ultrasound&amp;rdquo; is now peer reviewed and published in IEEE Transactions on Medical Imaging.
+Access the paper and supplemmentary material &lt;a href=&#34;https://ieeexplore.ieee.org/document/11513579&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research paper &#34;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&#34; is published</title>
+      <link>https://andersvra.github.io/posts/fourthpaperpublished/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/fourthpaperpublished/</guid>
+      
+      <description>&lt;p&gt;A new paper I worked on after my PhD is now publised in IEEE Transactions on Ultrasonics. The title of the paper is &amp;ldquo;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&amp;rdquo;.
+Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code for creating the simulations are found at the USTB website by following this &lt;a href=&#34;https://unioslo.github.io/USTB/examples/publications/TUSON/Vralstad_et_al_2026_Retrospective_transmit_correction_of_blocked_arrays/Correction_of_simulated_blockage.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging</title>
+      <link>https://andersvra.github.io/papers/ribblockage/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/papers/ribblockage/</guid>
+      
+      <description>&lt;p&gt;A new paper I worked on after my PhD is now publised in IEEE Transactions on Ultrasonics. The title of the paper is &amp;ldquo;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&amp;rdquo;.
+Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code for creating the simulations are found at the USTB website by following this &lt;a href=&#34;https://unioslo.github.io/USTB/examples/publications/TUSON/Vralstad_et_al_2026_Retrospective_transmit_correction_of_blocked_arrays/Correction_of_simulated_blockage.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentation at the 2025 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2025presentation/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/ius2025presentation/</guid>
+      
+      <description>&lt;p&gt;I presented my recent work on sound speed aberration correction. The talk was titled &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with Clinical Validation in Fetal Ultrasound&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>PhD thesis: Retrospective beamforming and sound speed correction</title>
+      <link>https://andersvra.github.io/posts/phdthesispublished/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/phdthesispublished/</guid>
+      
+      <description>&lt;p&gt;My PhD thesis &amp;ldquo;Retrospective beamforming and sound speed correction&amp;rdquo; is published in Norwegian Research Information Repository.&lt;/p&gt;
+&lt;p&gt;Read the thesis &lt;a href=&#34;https://nva.sikt.no/registration/0198ed80a93f-981de70a-60fe-4a3b-98c4-bb02b9d8ec73&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -40,7 +104,19 @@ The method is validated &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in silico&lt
       
       <description>&lt;p&gt;My third paper for my PhD is called &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound&amp;rdquo;.
 A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16551&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing</title>
+      <link>https://andersvra.github.io/papers/sourcecorrection/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/papers/sourcecorrection/</guid>
+      
+      <description>&lt;p&gt;My first paper for my PhD is called &amp;ldquo;Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
+&lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10552357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -57,14 +133,14 @@ A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16
     </item>
     
     <item>
-      <title>Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing</title>
-      <link>https://andersvra.github.io/research/sourcecorrection/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Universal REFoCUS Beamforming With Spatial Weighting</title>
+      <link>https://andersvra.github.io/papers/universalrefocus/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/sourcecorrection/</guid>
+      <guid>https://andersvra.github.io/papers/universalrefocus/</guid>
       
-      <description>&lt;p&gt;My first paper for my PhD is called &amp;ldquo;Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
-&lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10552357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
+&lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -81,31 +157,60 @@ A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16
     </item>
     
     <item>
-      <title>Universal REFoCUS Beamforming With Spatial Weighting</title>
-      <link>https://andersvra.github.io/research/universalrefocus/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <title>Lecture presentation at the 2023 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2023presentation/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/universalrefocus/</guid>
+      <guid>https://andersvra.github.io/posts/ius2023presentation/</guid>
       
-      <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
-&lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I presented a poster of my recent work on &amp;ldquo;Universal Refocus Beamforming with Pixel Dependent Apodization&amp;rdquo;. This work will be part of an upcomming research paper.&lt;/p&gt;
+&lt;p&gt;Watch the video where I explain the work &lt;a href=&#34;https://www.youtube.com/watch?v=FBsmWe1xtYI&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://andersvra.github.io/about/</link>
+      <title>Presentation at the NFUD Symposium 2023</title>
+      <link>https://andersvra.github.io/posts/nfud2023presentation/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/nfud2023presentation/</guid>
+      
+      <description>&lt;p&gt;I presented my work on distributed sound speed aberratoin correction on the symposium organized by Norsk forening for ultralyddiagnostikk (NFUD) in Tromsø. The title of the talk was &amp;ldquo;Lydhastighetskorrigering i fosteravbildning&amp;rdquo;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Poster presentation at the 2022 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2022presentation/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/ius2022presentation/</guid>
+      
+      <description>&lt;p&gt;I presented a poster of my recent work on &amp;ldquo;Sound speed and virtual source correction for retrospective transmit beamforming&amp;rdquo;. This work will be part of an upcomming research paper.&lt;/p&gt;
+&lt;p&gt;Watch the video where I explain the work &lt;a href=&#34;https://www.youtube.com/watch?v=vvPFet-BXBM&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://andersvra.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/about/</guid>
+      <guid>https://andersvra.github.io/cv/</guid>
       
-      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;h3 id=&#34;researcher&#34;&gt;Researcher&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.ntnu.edu/isb&#34;&gt;Department of Circulation and Medical Imaging&lt;/a&gt;, &lt;a href=&#34;https://www.ntnu.edu/mh&#34;&gt;Faculty of medicine and health sciences&lt;/a&gt;, NTNU&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;industry&#34;&gt;Industry&lt;/h1&gt;
+&lt;h3 id=&#34;systems-engineer&#34;&gt;Systems engineer&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;GE Healthcare Cardiovasular Ultrasound, Oslo Norway, 2025-present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I left academia to become a systems engineer in the R&amp;amp;D department of GE Healthcare Cardiovascular Ultrasound. Working on image quality and beamforming algorithms with focus on interventional applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;academia&#34;&gt;Academia&lt;/h1&gt;
+&lt;h3 id=&#34;research-position&#34;&gt;Research position&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.ntnu.edu/isb&#34;&gt;Department of Circulation and Medical Imaging&lt;/a&gt;, &lt;a href=&#34;https://www.ntnu.edu/mh&#34;&gt;Faculty of medicine and health sciences&lt;/a&gt;, NTNU, 2024-2025&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I continue my research from the PhD and start new projects including 3D focusing and parameter optimization using macheie learning methods. The goal is to improve the image quality and acquisition time. The position is financed by GE Healthcare Womens Health and NTNU.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;phd-in-medical-technologyhttpswwwntnuedustudiesphmedt&#34;&gt;Ph.D in &lt;a href=&#34;https://www.ntnu.edu/studies/phmedt&#34;&gt;Medical Technology&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;phd-in-medical-technology&#34;&gt;Ph.D in &lt;a href=&#34;https://www.ntnu.edu/studies/phmedt&#34;&gt;Medical Technology&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.ntnu.edu/isb&#34;&gt;Department of Circulation and Medical Imaging&lt;/a&gt;, &lt;a href=&#34;https://www.ntnu.edu/mh&#34;&gt;Faculty of medicine and health sciences&lt;/a&gt;, NTNU, 2024.&lt;/em&gt;&lt;/p&gt;</description>
       
     </item>

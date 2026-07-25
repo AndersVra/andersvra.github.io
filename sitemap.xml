@@ -2,36 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andersvra.github.io/research/coherenceaberration/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>https://andersvra.github.io/papers/coherenceaberration/</loc>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andersvra.github.io/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andersvra.github.io/research/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andersvra.github.io/posts/</loc>
-    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/posts/thirdpaperpublished/</loc>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/papers/</loc>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/posts/fourthpaperpublished/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/papers/ribblockage/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/posts/ius2025presentation/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/posts/phdthesispublished/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andersvra.github.io/posts/thirdpaperpreprint/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://andersvra.github.io/papers/sourcecorrection/</loc>
+    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andersvra.github.io/posts/firstpaperpublished/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andersvra.github.io/research/sourcecorrection/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
+    <loc>https://andersvra.github.io/papers/universalrefocus/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andersvra.github.io/posts/secondpaperpublished/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andersvra.github.io/research/universalrefocus/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>https://andersvra.github.io/posts/ius2023presentation/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andersvra.github.io/about/</loc>
+    <loc>https://andersvra.github.io/posts/nfud2023presentation/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andersvra.github.io/posts/ius2022presentation/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andersvra.github.io/categories/</loc>
+  </url><url>
+    <loc>https://andersvra.github.io/cv/</loc>
   </url><url>
     <loc>https://andersvra.github.io/tags/</loc>
   </url>

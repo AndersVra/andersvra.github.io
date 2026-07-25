@@ -6,7 +6,57 @@
     <description>Recent content in Posts on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research paper &#34;Coherence-Based Sound Speed Aberration Correction&#34; published in IEEE TMI</title>
+      <link>https://andersvra.github.io/posts/thirdpaperpublished/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/thirdpaperpublished/</guid>
+      
+      <description>&lt;p&gt;My third paper for my PhD called &amp;ldquo;Coherence-Based Sound Speed Aberration Correction — With Clinical Validation in Fetal Ultrasound&amp;rdquo; is now peer reviewed and published in IEEE Transactions on Medical Imaging.
+Access the paper and supplemmentary material &lt;a href=&#34;https://ieeexplore.ieee.org/document/11513579&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research paper &#34;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&#34; is published</title>
+      <link>https://andersvra.github.io/posts/fourthpaperpublished/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/fourthpaperpublished/</guid>
+      
+      <description>&lt;p&gt;A new paper I worked on after my PhD is now publised in IEEE Transactions on Ultrasonics. The title of the paper is &amp;ldquo;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&amp;rdquo;.
+Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code for creating the simulations are found at the USTB website by following this &lt;a href=&#34;https://unioslo.github.io/USTB/examples/publications/TUSON/Vralstad_et_al_2026_Retrospective_transmit_correction_of_blocked_arrays/Correction_of_simulated_blockage.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentation at the 2025 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2025presentation/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/ius2025presentation/</guid>
+      
+      <description>&lt;p&gt;I presented my recent work on sound speed aberration correction. The talk was titled &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with Clinical Validation in Fetal Ultrasound&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>PhD thesis: Retrospective beamforming and sound speed correction</title>
+      <link>https://andersvra.github.io/posts/phdthesispublished/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/phdthesispublished/</guid>
+      
+      <description>&lt;p&gt;My PhD thesis &amp;ldquo;Retrospective beamforming and sound speed correction&amp;rdquo; is published in Norwegian Research Information Repository.&lt;/p&gt;
+&lt;p&gt;Read the thesis &lt;a href=&#34;https://nva.sikt.no/registration/0198ed80a93f-981de70a-60fe-4a3b-98c4-bb02b9d8ec73&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Preprint of &#34;Coherence Based Sound Speed Aberration Correction&#34;</title>
       <link>https://andersvra.github.io/posts/thirdpaperpreprint/</link>
@@ -16,7 +66,7 @@
       
       <description>&lt;p&gt;My third paper for my PhD is called &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound&amp;rdquo;.
 A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16551&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceAberration&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -41,6 +91,41 @@ A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16
       
       <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lecture presentation at the 2023 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2023presentation/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/ius2023presentation/</guid>
+      
+      <description>&lt;p&gt;I presented a poster of my recent work on &amp;ldquo;Universal Refocus Beamforming with Pixel Dependent Apodization&amp;rdquo;. This work will be part of an upcomming research paper.&lt;/p&gt;
+&lt;p&gt;Watch the video where I explain the work &lt;a href=&#34;https://www.youtube.com/watch?v=FBsmWe1xtYI&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentation at the NFUD Symposium 2023</title>
+      <link>https://andersvra.github.io/posts/nfud2023presentation/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/nfud2023presentation/</guid>
+      
+      <description>&lt;p&gt;I presented my work on distributed sound speed aberratoin correction on the symposium organized by Norsk forening for ultralyddiagnostikk (NFUD) in Tromsø. The title of the talk was &amp;ldquo;Lydhastighetskorrigering i fosteravbildning&amp;rdquo;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Poster presentation at the 2022 IEEE International Ultrasonics Symposium</title>
+      <link>https://andersvra.github.io/posts/ius2022presentation/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersvra.github.io/posts/ius2022presentation/</guid>
+      
+      <description>&lt;p&gt;I presented a poster of my recent work on &amp;ldquo;Sound speed and virtual source correction for retrospective transmit beamforming&amp;rdquo;. This work will be part of an upcomming research paper.&lt;/p&gt;
+&lt;p&gt;Watch the video where I explain the work &lt;a href=&#34;https://www.youtube.com/watch?v=vvPFet-BXBM&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Anders E. Vrålstad Portfolio</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://andersvra.github.io/pages/</link>
     <description>Recent content in Pages on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://andersvra.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

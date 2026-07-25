@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Anders E. Vrålstad Portfolio</title>
-    <link>https://andersvra.github.io/research/</link>
-    <description>Recent content in Research on Anders E. Vrålstad Portfolio</description>
+    <title>Research Papers on Anders E. Vrålstad Portfolio</title>
+    <link>https://andersvra.github.io/papers/</link>
+    <description>Recent content in Research Papers on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://andersvra.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coherence-Based Sound Speed Aberration Correction — With Clinical Validation in Fetal Ultrasound</title>
-      <link>https://andersvra.github.io/research/coherenceaberration/</link>
+      <link>https://andersvra.github.io/papers/coherenceaberration/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/coherenceaberration/</guid>
+      <guid>https://andersvra.github.io/papers/coherenceaberration/</guid>
       
       <description>&lt;p&gt;&lt;em&gt;Anders Emil Vrålstad,
 Peter Fosodeder,
@@ -34,10 +34,10 @@ The method is validated in vitro and in silico showing a high correlation with t
     
     <item>
       <title>Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging</title>
-      <link>https://andersvra.github.io/research/ribblockage/</link>
+      <link>https://andersvra.github.io/papers/ribblockage/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/ribblockage/</guid>
+      <guid>https://andersvra.github.io/papers/ribblockage/</guid>
       
       <description>&lt;p&gt;A new paper I worked on after my PhD is now publised in IEEE Transactions on Ultrasonics. The title of the paper is &amp;ldquo;Retrospective Transmit Correction of Blocked Arrays Applied to Cardiac Ultrasound Imaging&amp;rdquo;.
 Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -47,10 +47,10 @@ Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34
     
     <item>
       <title>Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing</title>
-      <link>https://andersvra.github.io/research/sourcecorrection/</link>
+      <link>https://andersvra.github.io/papers/sourcecorrection/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/sourcecorrection/</guid>
+      <guid>https://andersvra.github.io/papers/sourcecorrection/</guid>
       
       <description>&lt;p&gt;My first paper for my PhD is called &amp;ldquo;Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10552357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -59,10 +59,10 @@ Read the paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/11494968&#34
     
     <item>
       <title>Universal REFoCUS Beamforming With Spatial Weighting</title>
-      <link>https://andersvra.github.io/research/universalrefocus/</link>
+      <link>https://andersvra.github.io/papers/universalrefocus/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/research/universalrefocus/</guid>
+      <guid>https://andersvra.github.io/papers/universalrefocus/</guid>
       
       <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
